@@ -24,7 +24,6 @@ Computer Science is my major, AI Engineer my job title, but technology nerd is w
 | **Ruta Inti** | WordPress • Notion | [rutainti.com](https://rutainti.com/) • Tech backend, web management and events for Ruta Inti, a travelling and cooperation NGO |
 | **CryptoShare** | Python • Cryptography • TLS | [GitHub](https://github.com/Guillermo-villar/Crypto-safe-Fileshare-App) • A safe way for peers in the Internet to share files over secure TLS protocols |
 
-> *Tip: keep this zero-effort for reviewers—live links over videos; videos over downloads.*
 
 ### Experience (TL;DR)
 
