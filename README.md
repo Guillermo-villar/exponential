@@ -11,8 +11,8 @@ Computer Science is my major, AI Engineer my job title, but technology nerd is w
 
 ### Main Achievements
 
-- **Winner of HackSpain's HappyRobot track.** The hottest hackathon for startups in Spain, more than 250 builders across an entire weekend where we built [hackspain.g-villar.tech/hackspain](https://hackspain.g-villar.tech/hackspain), a project to use AI agents to control a network of drones to control wildfires.  
-- **Certified for exceptional ability during my year in SF.** This allowed me to enroll in multiple master's level courses co-taught by bay area industry leaders from companies such as OpenAI, IBM, VMware. Selected to attend top industry events such as the Github Universe 2023 and the AI Explainability Hall 23.  
+- **Winner of HackSpain's HappyRobot track.** The hottest hackathon for startups in Spain, more than 250 builders across an entire weekend where we built [hackspain.g-villar.tech/hackspain](https://hackspain.g-villar.tech/hackspain), a project to use AI agents to control a network of drones to deal with wildfires.  
+- **Masters level courses as an exchange undergrad.** Passing an exam qualifying for exceptional ability allowed me to enroll in multiple master's level courses co-taught by bay area industry leaders from companies such as OpenAI, IBM, VMware. Selected to attend top industry events such as the Github Universe 2023 and the AI Explainability Hall 23.  
 - **Winner of the biggest Web3 Hackathon in Spain, Qubic & Telefonica 2025.** Competed head to head with Crypto experts (some with 10+ years in the industry) with no previous knowledge about the sector and ended up winning with a proposal for a NGO funding strategy using smart contracts to release funding dependent on meeting project deadlines.
 
 ### Most-Prideful Builds
