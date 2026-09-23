@@ -29,7 +29,7 @@ Computer Science is my major, AI Engineer my job title, but technology nerd is w
 ### Experience (TL;DR)
 
 - **AI Engineer / AXA** – September 2025 - Present. Full time rotational program developing AI projects. Automated 50+ monthly hours of ssl certificate management.
-- **Software Engineer / OutlierAI** – September 2024 - November 2025. Freelance Software Engineer for LLM Evaluation. Generated Python tooling for LLMs, with performance metrics increased in 90&+ of onboarded projects.
+- **Software Engineer / OutlierAI** – September 2024 - November 2025. Freelance Software Engineer for LLM Evaluation. Generated Python tooling for LLMs, with performance metrics increased in 90%+ of onboarded projects.
 - **Computer Science & Engineering (BSc)** – Universidad Carlos III de Madrid
 
 ---
